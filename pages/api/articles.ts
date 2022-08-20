@@ -38,8 +38,46 @@ export default function handler(
 export var database: any = {
     articles: [
         {
-            id: "hello",
-            title: "hello world"
+            id: "1",
+            title: "sample title 1",
+            description: "initial sample description",
+            creator: "jinwoo1225",
+            created_at: Date.now()
+        },
+        {
+            id: "2",
+            title: "sample title 2",
+            description: "initial sample description",
+            creator: "jinwoo1225",
+            created_at: Date.now()
+        },
+        {
+            id: "3",
+            title: "sample title 3",
+            description: "initial sample description",
+            creator: "jinwoo1225",
+            created_at: Date.now()
+        },
+        {
+            id: "4",
+            title: "sample title 4",
+            description: "initial sample description",
+            creator: "jinwoo1225",
+            created_at: Date.now()
+        },
+        {
+            id: "5",
+            title: "sample title 5",
+            description: "initial sample description",
+            creator: "jinwoo1225",
+            created_at: Date.now()
+        },
+        {
+            id: "6",
+            title: "sample title 6",
+            description: "initial sample description",
+            creator: "jinwoo1225",
+            created_at: Date.now()
         }
     ]
 }
