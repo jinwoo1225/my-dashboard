@@ -1,0 +1,16 @@
+.tableStyle {
+    border: 1px solid;
+    padding: 5px;
+}
+
+.tableHeadStyle {
+    border: 3px solid;
+    padding: 10px;
+}
+
+
+.tableRowStyle {
+    border: 1px solid;
+    padding: 10px;
+
+}
